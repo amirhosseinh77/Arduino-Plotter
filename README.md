@@ -9,7 +9,7 @@
 
 ## Software
 - Arduino IDE
-- Script in any language to treshold image and save pixels in a ```txt``` file as binary numbers
+- Script in any language to treshold image and save pixels in a ```txt``` file as image binary numbers
 
 
 ![plotter in action](extra/drawing.gif)
