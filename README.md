@@ -2,14 +2,10 @@
 
 ## Hardware
 - Arduino Uno (or any other one)
-- Mini servo motor (ex. MG90S Metal Gear Mini Servo)
-- 2 small stepper motors (ex. 5V 24BYJ48 stepper motor)
+- Mini servo motor (e.g., MG90S Metal Gear Mini Servo)
+- 2 small stepper motors (e.g., 5V 24BYJ48 stepper motor)
 - SD card reader
 - A board as plotter body
-
-![hardware](extra/hardware.png)
-
-![plotter structure](extra/structure.gif)
 
 ## Software
 - Arduino IDE
