@@ -8,7 +8,7 @@ This project is a guide to make a simple Arduino-based plotter. You can use this
 - Mini servo motor (e.g., MG90S Metal Gear Mini Servo)
 - 2 small stepper motors (e.g., 5V 24BYJ48 stepper motor)
 - SD card reader
-- A board as plotter body
+- Plotter body parts (Board, Pulley & Thread)
 
 ## Software
 - Arduino IDE ([arduino.cc](https://www.arduino.cc/en/Main/Software))
