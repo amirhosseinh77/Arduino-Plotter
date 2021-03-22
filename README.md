@@ -1,4 +1,7 @@
-# Arduino-Plotter
+# Arduino Plotter : A Simple DIY Project
+This project is a guide to make a simple Arduino-based plotter. You can use this repo for your  DIY plotter or get inspired by the idea of this project for your other works!
+
+![plotter in action](extra/drawing.gif)
 
 ## Hardware
 - Arduino Uno (or any other one)
@@ -8,11 +11,8 @@
 - A board as plotter body
 
 ## Software
-- Arduino IDE
+- Arduino IDE ([arduino.cc](https://www.arduino.cc/en/Main/Software))
 - Script in any language to treshold image and save pixels in a ```txt``` file as image binary numbers
-
-
-![plotter in action](extra/drawing.gif)
 
 ## Results
 
