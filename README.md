@@ -12,7 +12,7 @@ This project is a guide to make a simple Arduino-based plotter. You can use this
 
 ## Software
 - Arduino IDE ([arduino.cc](https://www.arduino.cc/en/Main/Software))
-- Script in any language to treshold image and save binary pixels in a ```txt``` file as 0 or 1 (here is a sample of [this text file](arduino_plotter/pixels.txt))
+- Script in any language to treshold image and save binary pixels in a ```txt``` file as 0 or 1 (here is a sample of this [text file](arduino_plotter/pixels.txt))
 
 ## Results
 
