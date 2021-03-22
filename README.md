@@ -1,5 +1,5 @@
 # Arduino Plotter : A Simple DIY Project
-This project is a guide to make a simple Arduino-based plotter. You can use this repo for your  DIY plotter or get inspired by the idea of this project for your other works!
+This project is a guide to make a simple Arduino-based plotter. You can use this repo for your  DIY plotter or get inspired by the idea of this project for your other works.
 Images and gifs of how to make and connect the parts is placed in the [extra](extra/) folder. Final software is also in the [arduino_plotter](arduino_plotter/) folder, but it needs to be tuned depending on your plotter characteristics.
 
 ![plotter in action](extra/drawing.gif)
